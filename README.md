@@ -1,2 +1,2 @@
 # stacks
-data structure
+data structure analysis
