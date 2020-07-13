@@ -1,2 +1,2 @@
 # stacks
-data structure analysis
+data structure analysis (psudo code)
